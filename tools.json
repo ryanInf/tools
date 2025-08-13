@@ -1,0 +1,125 @@
+{
+  "tools": [
+    {
+      "id": "avlist",
+      "name": "杀软在线对比",
+      "url": "avlist",
+      "category": "penetration",
+      "icon": "fa-virus"
+    },
+    {
+      "id": "java-exec-encode",
+      "name": "Java Exec编码",
+      "url": "java_exec_encode",
+      "category": "penetration",
+      "icon": "fa-code"
+    },
+    {
+      "id": "shiro-encrypt",
+      "name": "shiro rememberMe 在线加解密",
+      "url": "/WEB-shiro_rememberMe_encode_decode/",
+      "category": "penetration",
+      "icon": "fa-lock"
+    },
+    {
+      "id": "gtfobins",
+      "name": "GTFOBins 提权查询",
+      "url": "/GTFOBins/",
+      "category": "penetration",
+      "icon": "fa-key"
+    },
+    {
+      "id": "reverse-shell",
+      "name": "reverse-shell-generator 反弹shell生成",
+      "url": "/reverse-shell-generator/",
+      "category": "penetration",
+      "icon": "fa-exchange-alt"
+    },
+    {
+      "id": "http-converter",
+      "name": "HTTP Raw Converter HTTP 转换工具",
+      "url": "HTTPRawConverter/",
+      "category": "penetration",
+      "icon": "fa-exchange-alt"
+    },
+    {
+      "id": "http-checker",
+      "name": "HTTP Checker URL 检测器",
+      "url": "HTTPChecker/",
+      "category": "penetration",
+      "icon": "fa-search"
+    },
+    {
+      "id": "core-values",
+      "name": "核心价值观编码工具",
+      "url": "核心价值观编码工具",
+      "category": "ctf",
+      "icon": "fa-code"
+    },
+    {
+      "id": "ph0en1x",
+      "name": "ph0en1x编码工具",
+      "url": "ph0en1x编码工具",
+      "category": "ctf",
+      "icon": "fa-keyboard"
+    },
+    {
+      "id": "cyberchef-1052",
+      "name": "CyberChef_v10.5.2",
+      "url": "CyberChef_v10.5.2/CyberChef_v10.5.2.html",
+      "category": "ctf",
+      "icon": "fa-fire"
+    },
+    {
+      "id": "cyberchef-10194",
+      "name": "CyberChef_v10.19.4",
+      "url": "CyberChef_v10.19.4/CyberChef_v10.19.4.html",
+      "category": "ctf",
+      "icon": "fa-fire-alt"
+    },
+    {
+      "id": "ctool",
+      "name": "Ctool",
+      "url": "/Ctool/",
+      "category": "ctf",
+      "icon": "fa-wrench"
+    },
+    {
+      "id": "js-deobfuscator",
+      "name": "js-deobfuscator JS反混淆工具",
+      "url": "https://js-deobfuscator.vercel.app/",
+      "category": "ctf",
+      "icon": "fa-code"
+    },
+    {
+      "id": "linux-command",
+      "name": "常用Linux命令查询",
+      "url": "/linux-command",
+      "category": "computer-basics",
+      "icon": "fa-terminal"
+    },
+    {
+      "id": "pdf2img",
+      "name": "PDF转图片",
+      "url": "/pdf2img/",
+      "category": "office",
+      "icon": "fa-file-pdf"
+    },
+    {
+      "id": "watermark-tool",
+      "name": "图片水印打码工具",
+      "url": "sfz/index.html",
+      "category": "office",
+      "icon": "fa-water"
+    },
+    {
+      "id": "jessibuca",
+      "name": "jessibuca在线视频播放器",
+      "url": "jessibuca-3/public/pro",
+      "category": "office",
+      "icon": "fa-video"
+    }
+  ],
+  "lastUpdated": "2025-08-13T02:34:03.675Z",
+  "version": "1.0"
+}
